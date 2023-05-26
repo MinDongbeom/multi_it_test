@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T05:35:45.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="d2WgrGATHTkYUFIt6rs0" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T06:15:14.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="FwrgiCSdUC7FznnawpK1" version="21.3.4" type="github">
   <diagram name="페이지-1" id="RZKdvYfhMIM0Gqg2jtzD">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
           <mxGeometry x="60" y="140" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zVYJeStrvONxh56HRM_n-4" value="회원 관리(회원 서비스)" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=320;height=60;" parent="1" vertex="1">
-          <mxGeometry x="130" y="20" width="680" height="590" as="geometry" />
+          <mxGeometry x="130" y="20" width="680" height="700" as="geometry" />
         </mxCell>
         <mxCell id="zVYJeStrvONxh56HRM_n-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="zVYJeStrvONxh56HRM_n-5" target="zVYJeStrvONxh56HRM_n-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -36,7 +36,7 @@
           <mxGeometry x="180" y="100" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zVYJeStrvONxh56HRM_n-11" value="회원 전체 조회" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="180" y="460" width="140" height="70" as="geometry" />
+          <mxGeometry x="180" y="450" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zVYJeStrvONxh56HRM_n-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" parent="1" source="zVYJeStrvONxh56HRM_n-12" target="zVYJeStrvONxh56HRM_n-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -90,6 +90,9 @@
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xsoJ_msawuAjJJQHnv2H-1" value="블랙리스트 회원 설정" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="180" y="550" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
